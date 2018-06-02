@@ -1,1 +1,2 @@
 # arhitektura-racunara
+#resenja zadataka
