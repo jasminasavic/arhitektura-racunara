@@ -1,0 +1,16 @@
+# Program za sabiranje dva broja u proizvoljnoj bazi
+
+
+# Napisati asemblerski program koji, koristeći potprograme za konverziju
+# za bilo koju bazu 2‑36, vrši sabiranje dva neoznačena cela broja data u
+# znakovnom obliku i rezultat vraća u znakovnom obliku. Sve konverzije
+# raditi odmah nakon unosa, a u slučaju greške prekinuti dalji rad
+# programa i ispisati odgovarajuću poruku. Primer korišćenja:
+#       Unesite bazu broja:16
+#       Unesite broj:Fa
+#       Unesite bazu broja:8
+#       Unesite broj:123
+#       Unesite bazu rezultata:2
+#       Rezultat:101001101
+# Za ostale primere pokrenuti testiraj.sh.
+# Dodatni primeri se mogu napraviti pomoću kalkulatora (Accessories/Calculator)
