@@ -1,6 +1,6 @@
 #treba porediti k-ti i k+drugi clan niza 1. ukoliko su ta dva clana ista, upisati 0 u niz2
 #ukoliko je k<k+2 upisati 1, ukoliko je k>k+2, upisati -1.
-#ako niz1 ima n clanova, niz2 ce imati k+2 clana 
+#ako niz1 ima n clanova, niz2 ce imati n-2 clana 
 .section .data
 	niz1: .long 1,2,4,2,1,4,7,8,1,6,1,8
 	vel_niza1 = ( . - niz1)/4 #posto je velicina u bajtima, moramo podeliti sa 4
