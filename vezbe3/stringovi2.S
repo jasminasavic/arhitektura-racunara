@@ -3,7 +3,6 @@
 .section .text
 .globl main
 main:
-	jmp poc_s
 poc_s:
 	cmpb $' ', s
 	je postavi
