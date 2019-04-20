@@ -1,2 +1,2 @@
-# arhitektura-racunara
-#resenja zadataka
+# arhitektura racunara
+# resenja zadataka
