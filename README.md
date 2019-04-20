@@ -1,2 +1,1 @@
 # arhitektura racunara
-# resenja zadataka
